@@ -4,6 +4,7 @@ This app will return a 3 day forecast along with hiking trails in the area searc
 
 ## URL
 
+https://cullinans1.github.io/Plan-A-hike/
 
 ## Screenshot
 
